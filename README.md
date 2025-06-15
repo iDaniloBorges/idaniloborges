@@ -29,7 +29,7 @@ Eu sou Danilo Borges, Desenvolvedor Front-end em transição de carreira, com fo
 
 ##
 
-### ScoreCard
+### Scorecards
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idaniloborges&layout=compact&theme=highcontrast"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idaniloborges&show_icons=true&theme=highcontrast"/>
