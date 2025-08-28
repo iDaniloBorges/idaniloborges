@@ -5,9 +5,9 @@ Eu sou Danilo Borges, Desenvolvedor Front-end em transição de carreira, com fo
 
 ### Redes Sociais:
 
-[![Portfólio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://idaniloborges.github.io/](https://idaniloborgres-portfolio.netlify.app/))
-[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://idaniloborges.github.io/](https://www.linkedin.com/in/danilo-borges-desenvolvedor-frontend-backend-engenheiro/))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://idaniloborges.github.io/)
+[![Portfólio](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://idaniloborgres-portfolio.netlify.app/])
+[![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danilo-borges-dev-eng/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/idaniloborges/)
 
 
 
