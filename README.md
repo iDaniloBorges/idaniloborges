@@ -29,12 +29,3 @@ Eu sou Danilo Borges, Desenvolvedor Front-end em transição de carreira, com fo
   <img align="center" alt="GitHub" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original-wordmark.svg" />
 </div>
 
-##
-
-### Scorecards
-<div>
-   <img height="180em" alt="Scorecard linguagens mais utilizadas" src="https://github-readme-stats.vercel.app/api/top-langs/?username=idaniloborges&layout=compact&theme=react&hide_border=true&border_radius=15" />
-   <img height="180em" alt="Scorecard de contribuições" src="https://github-readme-stats.vercel.app/api?username=idaniloborges&show_icons=true&theme=react&hide_border=true&border_radius=15"/>
-</div>
-
-
